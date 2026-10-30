@@ -1,0 +1,17 @@
+
+{
+    "status": "success",
+    "metadata": {
+        "timestamp": 1775580000,
+        "location_id": "LOC_99"
+    },
+    "data": {
+        "city_name": "New Delhi",
+        "temp_kelvin": 293.15,
+        "humidity": "82%",
+        "wind": {
+            "speed": 6.5,
+            "direction": "NW"
+        }
+    }
+}
